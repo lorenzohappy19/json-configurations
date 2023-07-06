@@ -1,0 +1,36 @@
+{
+    "announcement": {
+        "title": "New version!",
+        "line1": "Lory's Modpack v2.2 is finally out!",
+        "line2": "This version adds a lot of changes such as Multiplayer and Arcade mode"
+    },
+    "version": {
+        "latest": "1.5",
+        "latestcode": 15,
+        "unreleased": "2.2",
+        "unreleasedcode": 22,
+        "latestinfo": {
+            "name": "Lory's Modpack v1.5",
+            "description": "Version 1.5 is released!",
+            "changes": {
+                "change1": "Reworked level 2 Hardcore",
+                "change2": "Improved widgets",
+                "change3": "Edits to level 1",
+                "change4": "Lots of bugs and game fixes",
+                "change5": "Reworked Discord RPC",
+                "change6": "Hardcore overhaul",
+                "change7": "",
+                "change8": "",
+                "change9": "",
+                "change10": "",
+                "change11": "",
+                "change12": "",
+                "change13": "",
+                "change14": "",
+                "change15": ""
+            },
+            "releaselink": "https://github.com/lorenzohappy19/BudgetBackrooms-LoryModpack/releases/tag/v1.5-modpack",
+            "directreleaselink": "https://github.com/lorenzohappy19/BudgetBackrooms-LoryModpack/releases/download/v1.5-modpack/1.5.zip"
+        }
+    }
+}
