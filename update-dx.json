@@ -2,6 +2,11 @@
   "updates": {
     "new-version": 0.9,
     "dev-version": 0.10,
+    "type": {
+      "early-access": true,
+      "no-steam": true,
+      "dev": false
+    },
     "steam-link": "",
     "gamejolt-link": "https://gamejolt.com/games/thebackroomsdx/821889"
   }
