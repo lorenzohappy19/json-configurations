@@ -1,0 +1,11 @@
+{
+    "warning": {
+        "enabled": false,
+        "title": "heheheha",
+        "description": "placeholder",
+        "severity": "0"
+    },
+    "playable": true,
+	"banned-ids": ["0"],
+	"warned-ids": ["0"]
+}
