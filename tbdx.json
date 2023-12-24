@@ -1,11 +1,11 @@
 {
     "warning": {
-        "enabled": false,
-        "title": "heheheha",
-        "description": "placeholder",
-        "severity": "0"
+        "enabled": true,
+        "title": "Welcome to 0.15!",
+        "description": "This is the first version featuring an online integration. If your game isn't working correctly, please report it!",
+        "severity": "2"
     },
     "playable": true,
-	"banned-ids": ["11"],
+	"banned-ids": ["0"],
 	"warned-ids": ["0"]
 }
