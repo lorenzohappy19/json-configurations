@@ -6,6 +6,6 @@
         "severity": "2"
     },
     "playable": true,
-	"banned-ids": ["76561198358898756"],
+	"banned-ids": ["0"],
 	"warned-ids": ["0"]
 }
